@@ -1,6 +1,6 @@
 # Hi, I'm Shetketu Mitra
 
-Aspiring Data Analyst | AI Enthusiast | French Learner | Strategy & Consulting Aspirant
+Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
 ## Certifications
 
