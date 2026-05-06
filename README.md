@@ -14,10 +14,13 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![Google AI Essentials V1](https://images.credly.com/size/80x80/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/da61bddf-ceb9-415c-b906-ec2efef74d0a)
 <!--END_SECTION:badges-->
 
-## Google Cloud Skills Boost
+## Google Skills 
+<img width="500" height="500" alt="exXBfYMpTTZHZL4JAIIMbbtPXtLOIJmyCnmxuw4ggto=" src="https://github.com/user-attachments/assets/6ab44998-64e0-439e-810d-f24b3984296e" />
+https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23977830
 
-[![Google Skills Boost](https://img.shields.io/badge/Google_Cloud-Skills_Boost-blue?style=for-the-badge&logo=googlecloud)](https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841)
+<img width="500" height="500" alt="u7KWIzro0Dhg_k0gDPz3FzlxHAnORVC9R0JL1k1ODL8=" src="https://github.com/user-attachments/assets/191f2a78-0430-4a2d-86bd-c30ba68ce6f4" />
+https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23982314
 
-🔗 View My Public Google Skills Profile:
-https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841
+<img width="500" height="500" alt="pn28u5yHjwU+r5LGxTTF2MNEGBnGHWZ9S5eWiEFAHgs=" src="https://github.com/user-attachments/assets/fab0f1d9-0549-49e1-9c3c-869ed400112c" />
+https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23991909
 
