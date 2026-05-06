@@ -2,7 +2,7 @@
 
 Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
-## Certifications & Skill Badges
+## Credly Certifications & Skill Badges
 
 <!--START_SECTION:badges-->
 [![Build a Data Mesh with Dataplex Skill Badge](https://images.credly.com/size/80x80/images/c4acff27-5baa-452f-a6b2-ab875da12dfd/image.png)](https://www.credly.com/badges/2a06094c-f14d-4365-a06b-eba2d9013b93)
@@ -13,3 +13,11 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![The Basics of Google Cloud Compute Skill Badge](https://images.credly.com/size/80x80/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](https://www.credly.com/badges/fe7f0251-ff62-4f62-8aca-66f9944e2dd2)
 [![Google AI Essentials V1](https://images.credly.com/size/80x80/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/da61bddf-ceb9-415c-b906-ec2efef74d0a)
 <!--END_SECTION:badges-->
+
+## Google Cloud Skills Boost
+
+[![Google Skills Boost](https://img.shields.io/badge/Google_Cloud-Skills_Boost-blue?style=for-the-badge&logo=googlecloud)](https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841)
+
+🔗 View My Public Google Skills Profile:
+https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841
+
