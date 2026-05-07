@@ -5,6 +5,7 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 ## Credly Certifications & Skill Badges
 
 <!--START_SECTION:badges-->
+
 [![Develop Serverless Apps with Firebase Skill Badge]
 (https://images.credly.com/size/340x340/images/826e89a5-1a1d-4e6c-b740-531957965a78/image.png)](https://www.credly.com/badges/469b4da3-1d50-4b6a-bcc8-30c3e26c90dc)
 [![Build a Data Mesh with Dataplex Skill Badge](https://images.credly.com/size/80x80/images/c4acff27-5baa-452f-a6b2-ab875da12dfd/image.png)](https://www.credly.com/badges/2a06094c-f14d-4365-a06b-eba2d9013b93)
