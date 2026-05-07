@@ -17,4 +17,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: shetketu-mitra
-          NUMBER_LAST_BADGES: 10
+          NUMBER_LAST_BADGES: 20
