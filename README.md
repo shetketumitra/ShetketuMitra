@@ -24,3 +24,7 @@ https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/b
 <img width="500" height="500" alt="pn28u5yHjwU+r5LGxTTF2MNEGBnGHWZ9S5eWiEFAHgs=" src="https://github.com/user-attachments/assets/fab0f1d9-0549-49e1-9c3c-869ed400112c" />
 https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23991909
 
+<img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/22323b0b-2722-4cac-bbf4-5fedb7ec8019" />
+https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/24016384
+
+
