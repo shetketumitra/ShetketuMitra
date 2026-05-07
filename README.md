@@ -15,16 +15,13 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 <!--END_SECTION:badges-->
 
 ## Google Skills 
-<img width="500" height="500" alt="exXBfYMpTTZHZL4JAIIMbbtPXtLOIJmyCnmxuw4ggto=" src="https://github.com/user-attachments/assets/6ab44998-64e0-439e-810d-f24b3984296e" />
-https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23977830
 
-<img width="500" height="500" alt="u7KWIzro0Dhg_k0gDPz3FzlxHAnORVC9R0JL1k1ODL8=" src="https://github.com/user-attachments/assets/191f2a78-0430-4a2d-86bd-c30ba68ce6f4" />
-https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23982314
+[<img width="200" height="200" alt="Google Skills Badge 23977830" src="https://github.com/user-attachments/assets/6ab44998-64e0-439e-810d-f24b3984296e" />](https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23977830)
 
-<img width="500" height="500" alt="pn28u5yHjwU+r5LGxTTF2MNEGBnGHWZ9S5eWiEFAHgs=" src="https://github.com/user-attachments/assets/fab0f1d9-0549-49e1-9c3c-869ed400112c" />
-https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23991909
+[<img width="200" height="200" alt="Google Skills Badge 23982314" src="https://github.com/user-attachments/assets/191f2a78-0430-4a2d-86bd-c30ba68ce6f4" />](https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23982314)
 
-<img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/22323b0b-2722-4cac-bbf4-5fedb7ec8019" />
-https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/24016384
+[<img width="200" height="200" alt="Google Skills Badge 23991909" src="https://github.com/user-attachments/assets/fab0f1d9-0549-49e1-9c3c-869ed400112c" />](https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23991909)
+
+[<img width="200" height="200" alt="Google Skills Badge 24016384" src="https://github.com/user-attachments/assets/22323b0b-2722-4cac-bbf4-5fedb7ec8019" />](https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/24016384)
 
 
