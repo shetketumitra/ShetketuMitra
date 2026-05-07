@@ -14,7 +14,7 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![Google AI Essentials V1](https://images.credly.com/size/110x110/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/da61bddf-ceb9-415c-b906-ec2efef74d0a)
 <!--END_SECTION:badges-->
 
-## Google Skills 
+## Google Skills Arcade
 
 [<img width="200" height="200" alt="Google Skills Badge 23977830" src="https://github.com/user-attachments/assets/6ab44998-64e0-439e-810d-f24b3984296e" />](https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23977830)
 
