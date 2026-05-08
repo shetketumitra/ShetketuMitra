@@ -16,41 +16,6 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![Google AI Essentials V1](https://images.credly.com/size/80x80/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/da61bddf-ceb9-415c-b906-ec2efef74d0a)
 <!--END_SECTION:badges-->
 
-## Credly Certifications & Skill Badges
-<!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/2b69f10b-46a6-468c-bc23-8f9c801aa33f" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/80x80/images/7514501c-47e3-4766-a833-2f45eacdf615/image.png" alt="Your First Badge Name" width="120" height="120">
-</a>
-<a href="https://www.credly.com/badges/5add815c-71be-4b50-a56b-fa06d89bf93d" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/80x80/images/f1dbea96-0ef4-4857-bb85-3d208a82de10/image.png" alt="Implement Cloud Security Fundamentals on Google Cloud Skill Badge" width="120" height="120">
-</a>
-<a href="https://www.credly.com/badges/469b4da3-1d50-4b6a-bcc8-30c3e26c90dc" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/80x80/images/826e89a5-1a1d-4e6c-b740-531957965a78/image.png" alt="Develop Serverless Apps with Firebase Skill Badge" width="120" height="120">
-</a>
-<a href="https://www.credly.com/badges/2a06094c-f14d-4365-a06b-eba2d9013b93" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/80x80/images/c4acff27-5baa-452f-a6b2-ab875da12dfd/image.png" alt="Build a Data Mesh with Dataplex Skill Badge" width="120" height="120">
-</a>
-<a href="https://www.credly.com/badges/471afa71-14b3-4c6d-95b8-027eca8c6199" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/80x80/images/189c5c31-67c6-4eae-87dc-3b8185a99043/image.png" alt="Set Up a Google Cloud Network Skill Badge" width="120" height="120">
-</a>
-<a href="https://www.credly.com/badges/1569dc0b-7654-456f-86bc-5d8efb2c2081" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/80x80/images/1d95accd-3e3d-466f-a432-5dceb4998fd1/image.png" alt="Use Machine Learning APIs on Google Cloud Skill Badge" width="120" height="120">
-</a>
-<a href="https://www.credly.com/badges/835012b3-c58a-4992-a513-e0a09c3ef61a" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/80x80/images/f0388a0c-130f-47cd-8750-d6357e907e58/image.png" alt="Deploy Kubernetes Applications on Google Cloud Skill Badge" width="120" height="120">
-</a>
-<a href="https://www.credly.com/badges/4b92d538-1855-4090-a4a8-f54818c316c4" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/80x80/images/b126c61c-4781-4f03-9b2b-062963003abf/image.png" alt="Develop Your Google Cloud Network Skill Badge" width="120" height="120">
-</a>
-<a href="https://www.credly.com/badges/fe7f0251-ff62-4f62-8aca-66f9944e2dd2" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/80x80/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png" alt="The Basics of Google Cloud Compute Skill Badge" width="120" height="120">
-</a>
-<a href="https://www.credly.com/badges/da61bddf-ceb9-415c-b906-ec2efef74d0a" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/80x80/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials V1" width="120" height="120">
-</a>
-<!--END_SECTION:badges-->
-
-
 
 ## Google Skills Arcade
 
