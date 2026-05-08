@@ -66,29 +66,29 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 ## Google Skills Arcade
 
 <p align="center">
+  <a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23977830">
+    <img src="https://github.com/user-attachments/assets/6ab44998-64e0-439e-810d-f24b3984296e" width="120" height="120" alt="Google Skills Badge 23977830"/>
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23982314">
+    <img src="https://github.com/user-attachments/assets/191f2a78-0430-4a2d-86bd-c30ba68ce6f4" width="120" height="120" alt="Google Skills Badge 23982314"/>
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23991909">
+    <img src="https://github.com/user-attachments/assets/fab0f1d9-0549-49e1-9c3c-869ed400112c" width="120" height="120" alt="Google Skills Badge 23991909"/>
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/24016384">
+    <img src="https://github.com/user-attachments/assets/22323b0b-2722-4cac-bbf4-5fedb7ec8019" width="120" height="120" alt="Google Skills Badge 24016384"/>
+  </a>
+</p>
 
-<a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23977830">
-  <img width="120" height="120" alt="Google Skills Badge 23977830" src="https://github.com/user-attachments/assets/6ab44998-64e0-439e-810d-f24b3984296e" />
-</a>
-
-<a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23982314">
-  <img width="120" height="120" alt="Google Skills Badge 23982314" src="https://github.com/user-attachments/assets/191f2a78-0430-4a2d-86bd-c30ba68ce6f4" />
-</a>
-
-<a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23991909">
-  <img width="120" height="120" alt="Google Skills Badge 23991909" src="https://github.com/user-attachments/assets/fab0f1d9-0549-49e1-9c3c-869ed400112c" />
-</a>
-
-<a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/24016384">
-  <img width="120" height="120" alt="Google Skills Badge 24016384" src="https://github.com/user-attachments/assets/22323b0b-2722-4cac-bbf4-5fedb7ec8019" />
-</a>
-
-<a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/24033934">
-  <img width="120" height="120" alt="Google Skills Badge 24033934" src="https://github.com/user-attachments/assets/1b6a677e-5afb-4f42-b51b-75d967b5a0e4" />
-</a>
-
-<a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/24045036">
-  <img width="120" height="120" alt="Google Skills Badge 24045036" src="https://github.com/user-attachments/assets/5a528d67-704e-431e-9570-510bf4d933f1" />
-</a>
-
+<p align="center">
+  <a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/24033934">
+    <img src="https://github.com/user-attachments/assets/1b6a677e-5afb-4f42-b51b-75d967b5a0e4" width="120" height="120" alt="Google Skills Badge 24033934"/>
+  </a>
+  
+  <a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/24045036">
+    <img src="https://github.com/user-attachments/assets/5a528d67-704e-431e-9570-510bf4d933f1" width="120" height="120" alt="Google Skills Badge 24045036"/>
+  </a>
 </p>
