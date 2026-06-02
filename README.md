@@ -4,6 +4,7 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
 ## Credly Certifications & Skill Badges
 <!--START_SECTION:badges-->
+[![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/80x80/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](https://www.credly.com/badges/22d72148-0652-4467-9ea9-8483cf219cd0)
 [![App Engine: 3 Ways Skill Badge](https://images.credly.com/size/80x80/images/0943ce78-1ef7-4ff4-8ad7-4b60f6de5e5f/image.png)](https://www.credly.com/badges/8daa4393-8f57-4e96-9dd9-e01ba1fb3889)
 [![Build a Website on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/cfcacbf1-1f76-40ad-be09-a5b057e31ebf/image.png)](https://www.credly.com/badges/947a3efc-2d4f-4311-98c0-0fd7eb72ab23)
 [![Implement DevOps Workflows in Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/7514501c-47e3-4766-a833-2f45eacdf615/image.png)](https://www.credly.com/badges/2b69f10b-46a6-468c-bc23-8f9c801aa33f)
