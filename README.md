@@ -4,6 +4,10 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
 ## Credly Certifications & Skill Badges
 <!--START_SECTION:badges-->
+[![Get Started with Google Workspace Tools Skill Badge](https://images.credly.com/size/80x80/images/7e78d94e-d10b-4699-a75a-96115b24c238/image.png)](https://www.credly.com/badges/39fa6e59-1232-4578-a7ae-09f6fdbeec30)
+[![Integrate BigQuery Data and Google Workspace using Apps Script Skill Badge](https://images.credly.com/size/80x80/images/02190f6d-01c5-457d-9ac0-b7fe4f31c7e6/image.png)](https://www.credly.com/badges/c9e461f3-6907-4153-9029-26d335e5854b)
+[![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](https://www.credly.com/badges/f08bf6cd-5566-46de-81df-bcc2a650249d)
+[![Protect Sensitive Data with Data Loss Prevention Skill Badge](https://images.credly.com/size/80x80/images/81b8d708-19b5-4381-8ee1-576dcb20f536/image.png)](https://www.credly.com/badges/0bbcecf0-4d83-48ba-a8e7-3eb24cee89b6)
 [![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/80x80/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](https://www.credly.com/badges/22d72148-0652-4467-9ea9-8483cf219cd0)
 [![App Engine: 3 Ways Skill Badge](https://images.credly.com/size/80x80/images/0943ce78-1ef7-4ff4-8ad7-4b60f6de5e5f/image.png)](https://www.credly.com/badges/8daa4393-8f57-4e96-9dd9-e01ba1fb3889)
 [![Build a Website on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/cfcacbf1-1f76-40ad-be09-a5b057e31ebf/image.png)](https://www.credly.com/badges/947a3efc-2d4f-4311-98c0-0fd7eb72ab23)
