@@ -4,6 +4,8 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
 ## Credly Certifications & Skill Badges
 <!--START_SECTION:badges-->
+[![Build LookML Objects in Looker Skill Badge](https://images.credly.com/size/80x80/images/2607a61b-7f94-43d7-bb97-3e811312c53e/image.png)](https://www.credly.com/badges/7f1982e5-348c-4080-aeaf-18bed1c7dca6)
+[![Manage Data Models in Looker Skill Badge](https://images.credly.com/size/80x80/images/d405f3db-7764-4979-8ae4-004b47e5a497/image.png)](https://www.credly.com/badges/b85fbd21-3149-47c1-8ef5-6348b5d7f52f)
 [![Get Started with Google Workspace Tools Skill Badge](https://images.credly.com/size/80x80/images/7e78d94e-d10b-4699-a75a-96115b24c238/image.png)](https://www.credly.com/badges/39fa6e59-1232-4578-a7ae-09f6fdbeec30)
 [![Integrate BigQuery Data and Google Workspace using Apps Script Skill Badge](https://images.credly.com/size/80x80/images/02190f6d-01c5-457d-9ac0-b7fe4f31c7e6/image.png)](https://www.credly.com/badges/c9e461f3-6907-4153-9029-26d335e5854b)
 [![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](https://www.credly.com/badges/f08bf6cd-5566-46de-81df-bcc2a650249d)
