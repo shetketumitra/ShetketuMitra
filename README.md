@@ -4,6 +4,8 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
 ## Credly Certifications & Skill Badges
 <!--START_SECTION:badges-->
+[![Cloud Speech API: 3 Ways Skill Badge](https://images.credly.com/size/80x80/images/4ddcd71a-7d89-4f86-bb85-adab564f16f1/image.png)](https://www.credly.com/badges/a5223bb9-ec10-4f3e-aa61-d87161c10fb1)
+[![Configure Service Accounts and IAM Roles for Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/374800df-53a7-407e-b660-1efa73da122a/image.png)](https://www.credly.com/badges/a63358b9-2c85-46f8-adb6-7fc64d9bcde7)
 [![Build LookML Objects in Looker Skill Badge](https://images.credly.com/size/80x80/images/2607a61b-7f94-43d7-bb97-3e811312c53e/image.png)](https://www.credly.com/badges/7f1982e5-348c-4080-aeaf-18bed1c7dca6)
 [![Manage Data Models in Looker Skill Badge](https://images.credly.com/size/80x80/images/d405f3db-7764-4979-8ae4-004b47e5a497/image.png)](https://www.credly.com/badges/b85fbd21-3149-47c1-8ef5-6348b5d7f52f)
 [![Get Started with Google Workspace Tools Skill Badge](https://images.credly.com/size/80x80/images/7e78d94e-d10b-4699-a75a-96115b24c238/image.png)](https://www.credly.com/badges/39fa6e59-1232-4578-a7ae-09f6fdbeec30)
@@ -22,7 +24,6 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![Deploy Kubernetes Applications on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/f0388a0c-130f-47cd-8750-d6357e907e58/image.png)](https://www.credly.com/badges/835012b3-c58a-4992-a513-e0a09c3ef61a)
 [![Develop Your Google Cloud Network Skill Badge](https://images.credly.com/size/80x80/images/b126c61c-4781-4f03-9b2b-062963003abf/image.png)](https://www.credly.com/badges/4b92d538-1855-4090-a4a8-f54818c316c4)
 [![The Basics of Google Cloud Compute Skill Badge](https://images.credly.com/size/80x80/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](https://www.credly.com/badges/fe7f0251-ff62-4f62-8aca-66f9944e2dd2)
-[![Google AI Essentials V1](https://images.credly.com/size/80x80/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/da61bddf-ceb9-415c-b906-ec2efef74d0a)
 <!--END_SECTION:badges-->
 
 
