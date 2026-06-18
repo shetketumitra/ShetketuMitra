@@ -4,6 +4,7 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
 ## Credly Certifications & Skill Badges
 <!--START_SECTION:badges-->
+[![AI Skills Fest 2026](https://images.credly.com/size/80x80/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob)](https://www.credly.com/badges/2241e307-931e-4aa6-827f-dfb02cf348ec)
 [![Cloud Speech API: 3 Ways Skill Badge](https://images.credly.com/size/80x80/images/4ddcd71a-7d89-4f86-bb85-adab564f16f1/image.png)](https://www.credly.com/badges/a5223bb9-ec10-4f3e-aa61-d87161c10fb1)
 [![Configure Service Accounts and IAM Roles for Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/374800df-53a7-407e-b660-1efa73da122a/image.png)](https://www.credly.com/badges/a63358b9-2c85-46f8-adb6-7fc64d9bcde7)
 [![Build LookML Objects in Looker Skill Badge](https://images.credly.com/size/80x80/images/2607a61b-7f94-43d7-bb97-3e811312c53e/image.png)](https://www.credly.com/badges/7f1982e5-348c-4080-aeaf-18bed1c7dca6)
@@ -23,7 +24,6 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![Use Machine Learning APIs on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/1d95accd-3e3d-466f-a432-5dceb4998fd1/image.png)](https://www.credly.com/badges/1569dc0b-7654-456f-86bc-5d8efb2c2081)
 [![Deploy Kubernetes Applications on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/f0388a0c-130f-47cd-8750-d6357e907e58/image.png)](https://www.credly.com/badges/835012b3-c58a-4992-a513-e0a09c3ef61a)
 [![Develop Your Google Cloud Network Skill Badge](https://images.credly.com/size/80x80/images/b126c61c-4781-4f03-9b2b-062963003abf/image.png)](https://www.credly.com/badges/4b92d538-1855-4090-a4a8-f54818c316c4)
-[![The Basics of Google Cloud Compute Skill Badge](https://images.credly.com/size/80x80/images/7623fefd-ebbd-4d8f-a053-f41dca852d9e/image.png)](https://www.credly.com/badges/fe7f0251-ff62-4f62-8aca-66f9944e2dd2)
 <!--END_SECTION:badges-->
 
 
