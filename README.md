@@ -4,6 +4,7 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
 ## Credly Certifications & Skill Badges
 <!--START_SECTION:badges-->
+[![Migrate MySQL data to Cloud SQL using Database Migration Service Skill Badge](https://images.credly.com/size/80x80/images/ae897453-a42c-4a7e-a147-51b91ff542d3/image.png)](https://www.credly.com/badges/1b36b165-9f58-412a-9f45-3c03bbfb9abc)
 [![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/80x80/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](https://www.credly.com/badges/e138b711-d2f0-40ab-9fbe-23c525758edc)
 [![Create and Manage AlloyDB Instances Skill Badge](https://images.credly.com/size/80x80/images/7ffcfd60-9241-4835-b783-f2558314d198/image.png)](https://www.credly.com/badges/60b65839-241f-48d1-9224-3e41f7bb0f1e)
 [![Develop GenAI Apps with Gemini and Streamlit Skill Badge](https://images.credly.com/size/80x80/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob)](https://www.credly.com/badges/2f09f0c9-8e38-4771-9211-e1711294a2ef)
@@ -23,7 +24,6 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![Store, Process, and Manage Data on Google Cloud - Console Skill Badge](https://images.credly.com/size/80x80/images/449ee94a-268c-4a6d-9983-0507fbdeaf46/image.png)](https://www.credly.com/badges/b14ed5dc-1fea-41b1-8c37-0260edb0231c)
 [![Streaming Analytics into BigQuery Skill Badge](https://images.credly.com/size/80x80/images/3934ff47-3ef9-40cb-82d2-66a40d33886a/image.png)](https://www.credly.com/badges/aec56f13-2491-40ac-baf1-f443a20757d7)
 [![Using the Google Cloud Speech API](https://images.credly.com/size/80x80/images/2f0d66d4-9479-43e5-a101-42cda01123dc/image.png)](https://www.credly.com/badges/ba602d4b-d99e-4eb7-a5c5-74704cfb9ff9)
-[![Build a Data Warehouse with BigQuery Skill Badge](https://images.credly.com/size/80x80/images/8ab21779-042f-4616-a6ab-fd0d62648b24/image.png)](https://www.credly.com/badges/3788059a-7cc8-43d2-b603-e8023c210881)
 <!--END_SECTION:badges-->
 
 
