@@ -4,6 +4,8 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
 ## Credly Certifications & Skill Badges
 <!--START_SECTION:badges-->
+[![Automate Data Capture at Scale with Document AI Skill Badge](https://images.credly.com/size/80x80/images/ca5eab27-0890-4eb6-9885-97650b485212/image.png)](https://www.credly.com/badges/24d446c9-b946-40dc-b969-b2946668d71f)
+[![Deploy and Manage Apigee X Skill Badge](https://images.credly.com/size/80x80/images/d2bc98e3-2164-458e-9045-4f857cbc5612/image.png)](https://www.credly.com/badges/5a4014e3-ff07-44d3-8bac-650dfb51dc71)
 [![Analyze Sentiment with Natural Language API Skill Badge](https://images.credly.com/size/80x80/images/bd687b0c-3959-4e06-b511-6623e32b8fdb/image.png)](https://www.credly.com/badges/e092fd29-457f-4534-ab19-a02642f9542e)
 [![Develop Serverless Applications on Cloud Run Skill Badge](https://images.credly.com/size/80x80/images/71b9b0df-64f1-4c0a-867f-942e2a5a5a14/image.png)](https://www.credly.com/badges/e0d6ae20-7d84-4489-8cd2-4d4ec82a1d0f)
 [![Develop with Apps Script and AppSheet Skill Badge](https://images.credly.com/size/80x80/images/c99de4cf-a2fe-4c34-9b38-43ea165ea0f4/image.png)](https://www.credly.com/badges/d35b545d-0c1e-46be-9975-13a46342ac49)
@@ -22,8 +24,6 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![Engineer Data for Predictive Modeling with BigQuery ML Skill Badge](https://images.credly.com/size/80x80/images/6160e2c1-4a95-4f47-8c5b-f2dde7bb6a67/image.png)](https://www.credly.com/badges/2e5ad7ce-2482-403f-9bd4-4898d085b85c)
 [![Enrich Metadata and Discovery of BigLake Data](https://images.credly.com/size/80x80/images/9ec58f1e-2cfc-4dfc-acae-dc7de5c10da7/blob)](https://www.credly.com/badges/5f145140-6e0a-4d4e-9fdb-d168313dd94f)
 [![Get Started with Eventarc Skill Badge](https://images.credly.com/size/80x80/images/5aa8a83f-22d6-4aa2-9a65-f95290187ce3/image.png)](https://www.credly.com/badges/98d8b0c2-10d2-40cb-96b1-7a8d9edd88d3)
-[![Monitor and Manage Google Cloud Resources Skill Badge](https://images.credly.com/size/80x80/images/c07b49a7-c295-4e2a-9557-09c22032e3ae/image.png)](https://www.credly.com/badges/cf6f755e-cfc1-4496-890d-bc2f72591749)
-[![Optimize Costs for Google Kubernetes Engine Skill Badge](https://images.credly.com/size/80x80/images/258d3147-f075-4308-bdb0-fb8d5e1d4d0e/image.png)](https://www.credly.com/badges/1470be44-a957-4718-95b6-fdb03821843d)
 <!--END_SECTION:badges-->
 
 
