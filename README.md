@@ -4,6 +4,9 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
 ## Credly Certifications & Skill Badges
 <!--START_SECTION:badges-->
+[![Build Real World AI Applications with Gemini and Imagen Skill Badge](https://images.credly.com/size/80x80/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob)](https://www.credly.com/badges/fea0200d-ffcb-4589-8919-168d47ed235e)
+[![Deploy Multi-Agent Architectures](https://images.credly.com/size/80x80/images/5b442afe-30bb-441f-a900-e78910db2116/blob)](https://www.credly.com/badges/00652992-ade4-4d6d-8faa-095b2341138e)
+[![Use Functions, Formulas, and Charts in Google Sheets Skill Badge](https://images.credly.com/size/80x80/images/f469072b-7e9a-4961-8096-292853f063e7/image.png)](https://www.credly.com/badges/54ba6039-3920-4b5a-a9b3-f7d393e4ec5e)
 [![Automate Data Capture at Scale with Document AI Skill Badge](https://images.credly.com/size/80x80/images/ca5eab27-0890-4eb6-9885-97650b485212/image.png)](https://www.credly.com/badges/24d446c9-b946-40dc-b969-b2946668d71f)
 [![Deploy and Manage Apigee X Skill Badge](https://images.credly.com/size/80x80/images/d2bc98e3-2164-458e-9045-4f857cbc5612/image.png)](https://www.credly.com/badges/5a4014e3-ff07-44d3-8bac-650dfb51dc71)
 [![Analyze Sentiment with Natural Language API Skill Badge](https://images.credly.com/size/80x80/images/bd687b0c-3959-4e06-b511-6623e32b8fdb/image.png)](https://www.credly.com/badges/e092fd29-457f-4534-ab19-a02642f9542e)
@@ -21,9 +24,6 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![Analyze Images with the Cloud Vision API Skill Badge](https://images.credly.com/size/80x80/images/bb8edfd1-9d69-48a3-bf81-3ab830caf393/image.png)](https://www.credly.com/badges/23765a99-3d9b-4ef1-b285-1342660fcaca)
 [![Analyze Speech and Language with Google APIs Skill Badge](https://images.credly.com/size/80x80/images/b82729b9-8f1f-4362-8b71-fb08f2cea6c2/image.png)](https://www.credly.com/badges/dd704a02-186c-4d6d-ae20-afb1d411a08f)
 [![Create ML Models with BigQuery ML Skill Badge](https://images.credly.com/size/80x80/images/073a27aa-c3d6-44b5-875f-906191666d70/image.png)](https://www.credly.com/badges/6189b143-e372-46cd-b220-718e49cce8cc)
-[![Engineer Data for Predictive Modeling with BigQuery ML Skill Badge](https://images.credly.com/size/80x80/images/6160e2c1-4a95-4f47-8c5b-f2dde7bb6a67/image.png)](https://www.credly.com/badges/2e5ad7ce-2482-403f-9bd4-4898d085b85c)
-[![Enrich Metadata and Discovery of BigLake Data](https://images.credly.com/size/80x80/images/9ec58f1e-2cfc-4dfc-acae-dc7de5c10da7/blob)](https://www.credly.com/badges/5f145140-6e0a-4d4e-9fdb-d168313dd94f)
-[![Get Started with Eventarc Skill Badge](https://images.credly.com/size/80x80/images/5aa8a83f-22d6-4aa2-9a65-f95290187ce3/image.png)](https://www.credly.com/badges/98d8b0c2-10d2-40cb-96b1-7a8d9edd88d3)
 <!--END_SECTION:badges-->
 
 
