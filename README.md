@@ -4,6 +4,12 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
 ## Credly Certifications & Skill Badges
 <!--START_SECTION:badges-->
+[![Analyze and Visualize Looker Data Skill Badge](https://images.credly.com/size/80x80/images/17bffe41-23fb-4004-a5c3-ea46b6c6ed76/image.png)](https://www.credly.com/badges/82756b36-c418-474b-8216-35d47bb094ea)
+[![Create and Manage Cloud SQL for PostgreSQL Instances Skill Badge](https://images.credly.com/size/80x80/images/597dbb03-e744-4abd-b005-74a4675eaab9/image.png)](https://www.credly.com/badges/3b35942a-96fe-4465-9887-78cb251d7a36)
+[![Create a Secure Data Lake on Cloud Storage Skill Badge](https://images.credly.com/size/80x80/images/64335247-e0fc-4afc-ae27-e4cdd0d0590d/image.png)](https://www.credly.com/badges/8b7388ab-0725-4b7f-ba41-2cf221f910ef)
+[![Develop AI-Powered Prototypes in Google AI Studio](https://images.credly.com/size/80x80/images/0dc89ffa-b235-4298-93f9-e152b06a5166/blob)](https://www.credly.com/badges/4649f1d5-ac83-42f4-9803-30f41c14018a)
+[![Explore Generative AI with the Vertex AI Gemini API Skill Badge](https://images.credly.com/size/80x80/images/9ecc031b-5f5a-418d-8397-1612c0f40fce/image.png)](https://www.credly.com/badges/be78c976-2bfa-464c-85cb-e3ac384e64a7)
+[![Get Started with API Gateway Skill Badge](https://images.credly.com/size/80x80/images/79d45afd-9552-447b-96d0-b4c2037f59be/image.png)](https://www.credly.com/badges/b371ccf0-00ce-4583-a58c-6a263b42ce17)
 [![Build Real World AI Applications with Gemini and Imagen Skill Badge](https://images.credly.com/size/80x80/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob)](https://www.credly.com/badges/fea0200d-ffcb-4589-8919-168d47ed235e)
 [![Deploy Multi-Agent Architectures](https://images.credly.com/size/80x80/images/5b442afe-30bb-441f-a900-e78910db2116/blob)](https://www.credly.com/badges/00652992-ade4-4d6d-8faa-095b2341138e)
 [![Use Functions, Formulas, and Charts in Google Sheets Skill Badge](https://images.credly.com/size/80x80/images/f469072b-7e9a-4961-8096-292853f063e7/image.png)](https://www.credly.com/badges/54ba6039-3920-4b5a-a9b3-f7d393e4ec5e)
@@ -18,12 +24,6 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/80x80/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](https://www.credly.com/badges/e138b711-d2f0-40ab-9fbe-23c525758edc)
 [![Create and Manage AlloyDB Instances Skill Badge](https://images.credly.com/size/80x80/images/7ffcfd60-9241-4835-b783-f2558314d198/image.png)](https://www.credly.com/badges/60b65839-241f-48d1-9224-3e41f7bb0f1e)
 [![Develop GenAI Apps with Gemini and Streamlit Skill Badge](https://images.credly.com/size/80x80/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob)](https://www.credly.com/badges/2f09f0c9-8e38-4771-9211-e1711294a2ef)
-[![Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge](https://images.credly.com/size/80x80/images/86a3283f-3e35-494f-82da-3fb3e89ba223/image.png)](https://www.credly.com/badges/ec353930-9dd5-4a2c-b95e-0207c172bc7c)
-[![Prompt Design in Vertex AI Skill Badge](https://images.credly.com/size/80x80/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png)](https://www.credly.com/badges/14ae15bd-572e-468c-aa1b-5709636ad7f9)
-[![Analyze BigQuery Data in Connected Sheets Skill Badge](https://images.credly.com/size/80x80/images/75208396-7fbe-437e-8a42-46277d642697/image.png)](https://www.credly.com/badges/3f35ef3a-f115-4ac6-86e0-4a59fc8945a9)
-[![Analyze Images with the Cloud Vision API Skill Badge](https://images.credly.com/size/80x80/images/bb8edfd1-9d69-48a3-bf81-3ab830caf393/image.png)](https://www.credly.com/badges/23765a99-3d9b-4ef1-b285-1342660fcaca)
-[![Analyze Speech and Language with Google APIs Skill Badge](https://images.credly.com/size/80x80/images/b82729b9-8f1f-4362-8b71-fb08f2cea6c2/image.png)](https://www.credly.com/badges/dd704a02-186c-4d6d-ae20-afb1d411a08f)
-[![Create ML Models with BigQuery ML Skill Badge](https://images.credly.com/size/80x80/images/073a27aa-c3d6-44b5-875f-906191666d70/image.png)](https://www.credly.com/badges/6189b143-e372-46cd-b220-718e49cce8cc)
 <!--END_SECTION:badges-->
 
 
