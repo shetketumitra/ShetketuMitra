@@ -4,6 +4,15 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
 ## Credly Certifications & Skill Badges
 <!--START_SECTION:badges-->
+[![Analyze and Reason on Multimodal Data with Gemini](https://images.credly.com/size/80x80/images/dab74a06-8898-4043-a682-8d02a6d05044/blob)](https://www.credly.com/badges/fb7211b4-a525-4f89-acf6-c71e1f3245f1)
+[![Connecting Cloud Networks with NCC](https://images.credly.com/size/80x80/images/66d67f84-1c21-4a17-a2d7-44aabc518f49/blob)](https://www.credly.com/badges/d1333e3c-930e-4e59-ab68-8af47a153fd7)
+[![Create and Manage Bigtable Instances Skill Badge](https://images.credly.com/size/80x80/images/cef00c62-6e0c-479c-9385-bedfd8c43dce/image.png)](https://www.credly.com/badges/e3d9cca1-8a5e-405f-bf8c-c94b9a607517)
+[![Develop and Secure APIs with Apigee X Skill Badge](https://images.credly.com/size/80x80/images/d344fbbb-44df-4af6-b5c0-ae59588b9ebc/image.png)](https://www.credly.com/badges/e05c3c8c-4d0e-453a-8822-f7a930b4197f)
+[![Enhance Gemini Model Capabilities](https://images.credly.com/size/80x80/images/9e6cd82e-c95d-4ffe-8190-32fdf032a4cb/blob)](https://www.credly.com/badges/32a83343-c072-4404-a0ef-9b6acd3ffb1c)
+[![Implement CI/CD Pipelines on Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/0daf1b0e-28c3-4102-96cf-e9d5f9213cc3/image.png)](https://www.credly.com/badges/071d73f3-5e12-416e-942a-667868a74655)
+[![Implement Multimodal Vector Search with BigQuery](https://images.credly.com/size/80x80/images/6d858d84-6987-48c8-9608-f5abb9b74492/blob)](https://www.credly.com/badges/d00e997b-822b-49a7-b46e-ddf079ef95ad)
+[![Perform Predictive Data Analysis in BigQuery Skill Badge](https://images.credly.com/size/80x80/images/d41246ef-1f8e-4b3a-b93d-034e7c66e309/image.png)](https://www.credly.com/badges/df4df192-a6bd-45fb-a328-d346e6acbb56)
+[![Protect Cloud Traffic with BeyondCorp Enterprise (BCE) Security Skill Badge](https://images.credly.com/size/80x80/images/70116ac6-9bf9-4600-b8db-7d0147fb5da8/image.png)](https://www.credly.com/badges/69660eaa-3d48-42f7-80b7-cb8b8157469d)
 [![Analyze and Visualize Looker Data Skill Badge](https://images.credly.com/size/80x80/images/17bffe41-23fb-4004-a5c3-ea46b6c6ed76/image.png)](https://www.credly.com/badges/82756b36-c418-474b-8216-35d47bb094ea)
 [![Create and Manage Cloud SQL for PostgreSQL Instances Skill Badge](https://images.credly.com/size/80x80/images/597dbb03-e744-4abd-b005-74a4675eaab9/image.png)](https://www.credly.com/badges/3b35942a-96fe-4465-9887-78cb251d7a36)
 [![Create a Secure Data Lake on Cloud Storage Skill Badge](https://images.credly.com/size/80x80/images/64335247-e0fc-4afc-ae27-e4cdd0d0590d/image.png)](https://www.credly.com/badges/8b7388ab-0725-4b7f-ba41-2cf221f910ef)
@@ -15,15 +24,6 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![Use Functions, Formulas, and Charts in Google Sheets Skill Badge](https://images.credly.com/size/80x80/images/f469072b-7e9a-4961-8096-292853f063e7/image.png)](https://www.credly.com/badges/54ba6039-3920-4b5a-a9b3-f7d393e4ec5e)
 [![Automate Data Capture at Scale with Document AI Skill Badge](https://images.credly.com/size/80x80/images/ca5eab27-0890-4eb6-9885-97650b485212/image.png)](https://www.credly.com/badges/24d446c9-b946-40dc-b969-b2946668d71f)
 [![Deploy and Manage Apigee X Skill Badge](https://images.credly.com/size/80x80/images/d2bc98e3-2164-458e-9045-4f857cbc5612/image.png)](https://www.credly.com/badges/5a4014e3-ff07-44d3-8bac-650dfb51dc71)
-[![Analyze Sentiment with Natural Language API Skill Badge](https://images.credly.com/size/80x80/images/bd687b0c-3959-4e06-b511-6623e32b8fdb/image.png)](https://www.credly.com/badges/e092fd29-457f-4534-ab19-a02642f9542e)
-[![Develop Serverless Applications on Cloud Run Skill Badge](https://images.credly.com/size/80x80/images/71b9b0df-64f1-4c0a-867f-942e2a5a5a14/image.png)](https://www.credly.com/badges/e0d6ae20-7d84-4489-8cd2-4d4ec82a1d0f)
-[![Develop with Apps Script and AppSheet Skill Badge](https://images.credly.com/size/80x80/images/c99de4cf-a2fe-4c34-9b38-43ea165ea0f4/image.png)](https://www.credly.com/badges/d35b545d-0c1e-46be-9975-13a46342ac49)
-[![Get Started with Dataplex Skill Badge](https://images.credly.com/size/80x80/images/1aa38026-5e9d-45f5-becc-288601568ad5/image.png)](https://www.credly.com/badges/103b9064-87ad-4d01-9fdd-cde1af3027b3)
-[![Monitoring in Google Cloud Skill Badge](https://images.credly.com/size/80x80/images/5a9654e8-37e5-4043-8a94-eeb0f98a2a9c/image.png)](https://www.credly.com/badges/9ac1baf6-a636-47ee-904c-3f0e48ab43fc)
-[![Migrate MySQL data to Cloud SQL using Database Migration Service Skill Badge](https://images.credly.com/size/80x80/images/ae897453-a42c-4a7e-a147-51b91ff542d3/image.png)](https://www.credly.com/badges/1b36b165-9f58-412a-9f45-3c03bbfb9abc)
-[![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/80x80/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](https://www.credly.com/badges/e138b711-d2f0-40ab-9fbe-23c525758edc)
-[![Create and Manage AlloyDB Instances Skill Badge](https://images.credly.com/size/80x80/images/7ffcfd60-9241-4835-b783-f2558314d198/image.png)](https://www.credly.com/badges/60b65839-241f-48d1-9224-3e41f7bb0f1e)
-[![Develop GenAI Apps with Gemini and Streamlit Skill Badge](https://images.credly.com/size/80x80/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob)](https://www.credly.com/badges/2f09f0c9-8e38-4771-9211-e1711294a2ef)
 <!--END_SECTION:badges-->
 
 
