@@ -25,37 +25,3 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![Automate Data Capture at Scale with Document AI Skill Badge](https://images.credly.com/size/80x80/images/ca5eab27-0890-4eb6-9885-97650b485212/image.png)](https://www.credly.com/badges/24d446c9-b946-40dc-b969-b2946668d71f)
 [![Deploy and Manage Apigee X Skill Badge](https://images.credly.com/size/80x80/images/d2bc98e3-2164-458e-9045-4f857cbc5612/image.png)](https://www.credly.com/badges/5a4014e3-ff07-44d3-8bac-650dfb51dc71)
 <!--END_SECTION:badges-->
-
-
-
-
-
-## Google Skills Arcade
-
-<p align="center">
-  <a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23977830">
-    <img src="https://github.com/user-attachments/assets/6ab44998-64e0-439e-810d-f24b3984296e" width="120" height="120" alt="Google Skills Badge 23977830"/>
-  </a>
-  
-  <a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23982314">
-    <img src="https://github.com/user-attachments/assets/191f2a78-0430-4a2d-86bd-c30ba68ce6f4" width="120" height="120" alt="Google Skills Badge 23982314"/>
-  </a>
-  
-  <a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/23991909">
-    <img src="https://github.com/user-attachments/assets/fab0f1d9-0549-49e1-9c3c-869ed400112c" width="120" height="120" alt="Google Skills Badge 23991909"/>
-  </a>
-  
-  <a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/24016384">
-    <img src="https://github.com/user-attachments/assets/22323b0b-2722-4cac-bbf4-5fedb7ec8019" width="120" height="120" alt="Google Skills Badge 24016384"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/24033934">
-    <img src="https://github.com/user-attachments/assets/1b6a677e-5afb-4f42-b51b-75d967b5a0e4" width="120" height="120" alt="Google Skills Badge 24033934"/>
-  </a>
-  
-  <a href="https://www.skills.google/public_profiles/83109acb-5b38-4499-845a-cea49b520841/badges/24045036">
-    <img src="https://github.com/user-attachments/assets/5a528d67-704e-431e-9570-510bf4d933f1" width="120" height="120" alt="Google Skills Badge 24045036"/>
-  </a>
-</p>
