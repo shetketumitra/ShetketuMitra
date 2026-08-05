@@ -4,6 +4,7 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 
 ## Credly Certifications & Skill Badges
 <!--START_SECTION:badges-->
+[![Create and Manage Cloud Spanner Instances Skill Badge](https://images.credly.com/size/80x80/images/517b0725-e59c-47ec-8a3b-8025a67dc480/image.png)](https://www.credly.com/badges/b108a76b-3d49-4860-88f6-3bd6a2cc8fbe)
 [![Build a Smart Cloud Application with Vibe Coding and MCP](https://images.credly.com/size/80x80/images/86b07cc4-b6cc-43d8-855c-a945d2642111/blob)](https://www.credly.com/badges/d6b6f182-36fd-4c83-b7d4-3c09cd9e6db8)
 [![Build Global and Regional Load Balancing Solutions](https://images.credly.com/size/80x80/images/c9227642-035d-4276-8789-01438551114b/blob)](https://www.credly.com/badges/2148a8de-1747-4676-90ff-a69c3c30abac)
 [![Kickstarting Application Development with Gemini Code Assist](https://images.credly.com/size/80x80/images/5b6ab4b6-1a55-4976-a8e3-f05cbf37c4d3/blob)](https://www.credly.com/badges/a3f6bdc4-5bd7-4fef-acfb-7467db4944f9)
@@ -23,5 +24,4 @@ Data Analytics & AI Enthusiast | SQL | Python | Lifelong Learner
 [![Deploy and Secure Serverless APIs with API Gateway](https://images.credly.com/size/80x80/images/bb5df9eb-54d0-4671-bed3-efb034c0682d/blob)](https://www.credly.com/badges/b371ccf0-00ce-4583-a58c-6a263b42ce17)
 [![Develop AI-Powered Prototypes in Google AI Studio](https://images.credly.com/size/80x80/images/0dc89ffa-b235-4298-93f9-e152b06a5166/blob)](https://www.credly.com/badges/4649f1d5-ac83-42f4-9803-30f41c14018a)
 [![Explore Generative AI with the Vertex AI Gemini API Skill Badge](https://images.credly.com/size/80x80/images/9ecc031b-5f5a-418d-8397-1612c0f40fce/image.png)](https://www.credly.com/badges/be78c976-2bfa-464c-85cb-e3ac384e64a7)
-[![Build Real World AI Applications with Gemini and Imagen Skill Badge](https://images.credly.com/size/80x80/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob)](https://www.credly.com/badges/fea0200d-ffcb-4589-8919-168d47ed235e)
 <!--END_SECTION:badges-->
